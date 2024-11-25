@@ -2,20 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-1. @highcharts/dashboards
-
-calender
-1. npm i @fullcalendar/daygrid @fullcalendar/interaction @fullcalendar/timegrid @fullcalendar/react
-
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -84,3 +70,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+NOTE : 
+
+
+
+
+
+
+
+
+
+
+1. Implemented Chartjs
+2. Implemented Full Calendar
